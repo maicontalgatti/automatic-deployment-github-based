@@ -15,3 +15,6 @@ A página é um currículo online moderno, responsivo e com suporte a impressão
 
 ## URL esperada/disponível
 https://maicontalgatti.github.io/automatic-deployment-github-based/
+
+## Roadmap de estudo
+https://roadmap.sh/projects/github-actions-deployment-workflow
