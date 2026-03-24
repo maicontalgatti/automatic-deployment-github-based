@@ -1,6 +1,6 @@
 # GitHub Pages Deployment Workflow
 
-Este projeto publica um site estático no GitHub Pages usando GitHub Actions.
+Este projeto publica automaticamente um site quando alterações são recebidas no GitHub usando GitHub Actions.
 
 ## Conteúdo
 - `index.html`: página principal do site (currículo online)
