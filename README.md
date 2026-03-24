@@ -14,7 +14,7 @@ Sempre que houver um push na branch `main` alterando o arquivo `index.html`, o G
 A página é um currículo online moderno, responsivo e com suporte a impressão (“Imprimir / PDF”), com as principais informações profissionais.
 
 ## URL esperada/disponível
-https://maicontalgatti.github.io/Deploy-automatico-com-GitHubActions____/
+https://maicontalgatti.github.io/Deploy-automatico-com-GitHubActions____
 
 ## Roadmap de estudo
 https://roadmap.sh/projects/github-actions-deployment-workflow
